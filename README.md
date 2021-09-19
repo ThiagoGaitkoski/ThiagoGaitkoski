@@ -1,16 +1,24 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**ThiagoGaitkoski/ThiagoGaitkoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Thiago Gaitkoski!
 
-Here are some ideas to get you started:
+:computer: Studying to be a back end developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: Create a new project and find a new job.
+
+## Language and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGaitkoski)](https://github.com/ThiagoGaitkoski/github-readme-stats)
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoGaitkoski)](https://github.com/ThiagoGaitkoski/github-readme-stats)
+
+
+
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
