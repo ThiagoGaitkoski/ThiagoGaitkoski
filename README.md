@@ -6,8 +6,6 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
-
 :outbox_tray: 2021 Goals: Create a new project and find a new job.
 
 ## Language and Tools:
