@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:outbox_tray: 2021 Goals: Create a new project and find a new job.
+:outbox_tray: 2022 Goals: Get a job in programming.
 
 ## Language and Tools:
 
