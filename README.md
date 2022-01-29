@@ -2,7 +2,7 @@
 
 ## I'm Thiago Gaitkoski!
 
-:computer: Studying to be a back end developer!
+:computer: Studying to be a Full-Stack developer!
 
 :house_with_garden: I’m from Brazil.
 
